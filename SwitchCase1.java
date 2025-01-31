@@ -1,8 +1,6 @@
 package capgemini.SwitchCase;
 
 import java.util.Scanner;
-
-import java.util.*;
 public class SwitchCase1 {
 
     public static void main(String[] args) {
@@ -10,7 +8,7 @@ public class SwitchCase1 {
 
         System.out.print("Enter first number: ");
         double num1 = sc.nextDouble();
-
+// hwllo 
         System.out.print("Enter second number: ");
         double num2 = sc.nextDouble();
 
