@@ -2,6 +2,7 @@ package capgemini.SwitchCase;
 
 import java.util.Scanner;
 
+import java.util.*;
 public class SwitchCase1 {
 
     public static void main(String[] args) {
