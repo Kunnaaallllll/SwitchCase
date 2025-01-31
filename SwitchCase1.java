@@ -17,6 +17,7 @@ public class SwitchCase1 {
         System.out.print("Enter second number: ");
         double num2 = sc.nextDouble();
 
+        // hii how are yoyr?
         System.out.print("Enter an operator (+, -, *, /): ");
         char operator = sc.next().charAt(0);
 
